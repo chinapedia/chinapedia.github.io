@@ -4,7 +4,7 @@
 
 ## 维基百科镜像
 
-目前可以在国内访问，翻译的词条内容，应用也会尽量链接到此镜像：https://wiki.chinapedia.org
+目前可以在国内访问，翻译的词条内容，应用也会尽量链接到此镜像：[https://wiki.chinapedia.org](https://wiki.chinapedia.org)
 
 ## 维基百科导入
 
