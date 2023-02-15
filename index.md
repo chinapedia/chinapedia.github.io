@@ -2,6 +2,10 @@
 
 中国百科是针对维基百科内容的一系列导出、转换和翻译计划。目前计划中，中国百科的内容有三处来源：[维基百科](https://wikipedia.org/)的内容导入；[英文维基百科](https://en.wikipedia.org/)、英文学术论文以及其它来源内容的[中文翻译站](https://en.chinapedia.org/)。
 
+## 维基百科镜像
+
+目前可以在国内访问，翻译的词条内容，应用也会尽量链接到此镜像：https://wiki.chinapedia.org
+
 ## 维基百科导入
 
 * 中文维基百科[chinapedia/wikipedia.zh](https://github.com/chinapedia/wikipedia.zh)，词条搜索[入口](https://github.com/chinapedia/wikipedia.zh/find/master)
