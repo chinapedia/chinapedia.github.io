@@ -11,7 +11,7 @@
 * 中文维基百科[chinapedia/wikipedia.zh](https://github.com/chinapedia/wikipedia.zh)，词条搜索：[GitHub入口](https://github.com/chinapedia/wikipedia.zh/find/master)，[镜像入口](https://zh.wiki.chinapedia.org/)。
 * 日文维基百科[chinapedia/wikipedia.jp](https://github.com/chinapedia/wikipedia.jp)，词条搜索：[GitHub入口](https://github.com/chinapedia/wikipedia.jp/find/master)，[镜像入口](https://jp.wiki.chinapedia.org/)。
 * 韩文维基百科[chinapedia/wikipedia.ko](https://github.com/chinapedia/wikipedia.ko)，词条搜索：[GitHub入口](https://github.com/chinapedia/wikipedia.ko/find/master)，[镜像入口](https://ko.wiki.chinapedia.org/)。
-* 英文维基百科[chinapedia/wikipedia.en](https://github.com/chinapedia/wikipedia.en)，词条搜索：[GitHub入口](https://github.com/chinapedia/wikipedia.en/find/master)，[镜像入口](https://en.wiki.chinapedia.org/)。
+* 英文维基百科[chinapedia/wikipedia.en](https://github.com/chinapedia/wikipedia.en)，词条搜索：[GitHub入口](https://github.com/chinapedia/wikipedia.en/find/main)，[镜像入口](https://en.wiki.chinapedia.org/)。
 
 ## 翻译
 
