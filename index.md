@@ -1,6 +1,6 @@
 # 中国百科
 
-中国百科是针对维基百科内容的一系列导出、转换和翻译计划。目前计划中，中国百科的内容有三处来源：[维基百科](https://wikipedia.org/)的内容导入；[英文维基百科](https://en.wikipedia.org/)、英文学术论文以及其它来源内容的[中文翻译站](https://en.chinapedia.org/)。
+中国百科是针对维基百科内容的一系列导出、转换和翻译计划。目前计划中，中国百科的内容有三处来源：[维基百科](https://wikipedia.org/)的内容导入；[英文维基百科](https://en.wikipedia.org/)、英文学术论文以及其它外语内容的[中文翻译站](https://zh.chinapedia.org/)。
 
 ## 维基百科镜像
 
@@ -22,12 +22,12 @@
 
 目前有三种参与方式，你可以任选：
 
+* 在GitHub上参与[中国百科](https://github.com/chinapedia/zh.chinapedia.org)的词条翻译、校对工作。
+* 利用现有的翻译API，实现[中国百科](https://github.com/chinapedia/zh.chinapedia.org)的自动化翻译。
 * 参与[MediaWiki](https://www.mediawiki.org/)的定制开发、技术维护工作。
-* 参与中国百科上词条修改的审核工作。
-* 实现并优化英文维基百科以及其它内容到中文翻译的模型优化，因为是 MediaWiki markup 语言的翻译，可能会无法直接套用现成的翻译API。
 
 我本人计划先用对比下 Google 和 Microsoft Translator API 的翻译质量，然后用机器翻译出一个版本。
-
+
 有意参与者可以加本人微信：li_ruqi 或者加入 Telegram 群组：https://t.me/chinapedia 
 
 # Import Wikipedia dump
