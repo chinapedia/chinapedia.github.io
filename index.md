@@ -8,14 +8,14 @@
 
 ## 维基百科导入
 
-* 中文维基百科[镜像入口](https://zh.wiki.chinapedia.org/)。
-* 日文维基百科[chinapedia/wikipedia.jp](https://github.com/chinapedia/wikipedia.jp)，词条搜索：[GitHub入口](https://github.com/chinapedia/wikipedia.jp/find/master)，[镜像入口](https://jp.wiki.chinapedia.org/)。
-* 韩文维基百科[chinapedia/wikipedia.ko](https://github.com/chinapedia/wikipedia.ko)，词条搜索：[GitHub入口](https://github.com/chinapedia/wikipedia.ko/find/master)，[镜像入口](https://ko.wiki.chinapedia.org/)。
-* 英文维基百科[镜像入口](https://en.wiki.chinapedia.org/)。
+* 中文维基百科[镜像入口](https://zh.chped.com/)。
+* 日文维基百科[镜像入口](https://jp.chped.com/)。
+* 韩文维基百科[镜像入口](https://ko.chped.com/)。
+* 英文维基百科[镜像入口](https://en.chped.com/)。
 
 ## 翻译
 
-* 从[维基百科](https://www.wikipedia.org/)首页可以看到，目前[英文维基百科](https://en.wikipedia.org/)有大约568万词条，但是中文仅有101万。我最近有发现有稍微专业一些的术语没有维基百科中文词条，如果有可读的翻译，将会极大丰富中文互联网内容。
+* 从[维基百科](https://www.chped.com/)首页可以看到，目前[英文维基百科](https://en.chped.com/)有大约675万词条，但是中文仅有139万。我最近有发现有稍微专业一些的术语没有维基百科中文词条，如果有可读的翻译，将会极大丰富中文互联网内容。
 * [中文维基百科](https://zh.wikipedia.org/)上审核比较严，不容许出现机器翻译的内容，也很少人有时间精力把其它语言的词条全文翻译，以至于许多词条完全空缺。我的计划是先用机器翻译占位，然后通过人工编辑，逐步改进，同时优化机器翻译的质量。
 
 # 参与本项目
